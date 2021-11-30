@@ -345,6 +345,7 @@ p{
     margin: 0 0 25px;
 }
 /* .solutions-text .btn{
+.solutions-text .btn{
     margin: 15px 0 0;
     color: #faf9f6;
     background-color: #007f6e;
@@ -352,9 +353,6 @@ p{
 .solutions-text .btn:hover{
     color: #007f6e;
     background-color: #faf9f6;
-} */
-.solutions-img {
-    margin-bottom: 3rem;
 }
 .solutions-img img{
     width: 100%;

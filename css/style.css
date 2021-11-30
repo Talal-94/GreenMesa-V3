@@ -332,9 +332,6 @@ p{
 .solutions-section{
     background-color: #e9e9e9;
 }
-.margin-top {
-    margin-top: 3rem;
-}
 .solutions-text,
 .solutions-img{
     width: 50%;
@@ -342,14 +339,12 @@ p{
 }
 .solutions-text h3{
     font-size: 22px;
-    text-transform: capitalize;
-    margin: 0 0 30px;
     text-align: center;
 }
 .solutions-text p{
     margin: 0 0 25px;
 }
-.solutions-text .btn{
+/* .solutions-text .btn{
     margin: 15px 0 0;
     color: #faf9f6;
     background-color: #007f6e;
@@ -357,6 +352,9 @@ p{
 .solutions-text .btn:hover{
     color: #007f6e;
     background-color: #faf9f6;
+} */
+.solutions-img {
+    margin-bottom: 3rem;
 }
 .solutions-img img{
     width: 100%;
@@ -365,7 +363,6 @@ p{
 .solutions-img .img-box{
     position: relative;
 }
-
 /* Team section */
 .testimonials-section{
     /* background-color: #D3D3D3; */

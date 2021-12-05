@@ -340,7 +340,7 @@ p{
     align-items: center;
 }
 .first {
-    background-image: url(/images/AdobeStock_358596652.jpeg);
+    background-image: url(images/AdobeStock_358596652.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -353,13 +353,13 @@ p{
     opacity: .9;
 }
 .second {
-    background-image: url(/images/scifi.jpeg);
+    background-image: url(images/scifi.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .third {
-    background-image: url(/images/tree-g83d998ac2_1280.jpg);
+    background-image: url(images/tree-g83d998ac2_1280.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

@@ -514,6 +514,7 @@ textarea{
     text-align: center;
 }
 .footer-item h3{
+    font-family: 'Gotham';
     text-transform: capitalize;
     color: #007f6e;
     font-size: 23px;

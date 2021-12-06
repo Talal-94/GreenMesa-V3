@@ -330,14 +330,17 @@ p{
     position: relative;
 }
 /* Solutions section */
+.swiper-secton {
+    background-color: #e9e9e9;
+}
 .swiper {
     height: 40rem;
-    transition: 1s ease-in;
 }
 .swiper-slide {
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 .first {
     background-image: url(../images/AdobeStock_358596652.jpeg);

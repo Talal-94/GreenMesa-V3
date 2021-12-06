@@ -626,6 +626,9 @@ textarea{
     .contact-box{
 		grid-template-columns: 1fr;
 	}
+    .contain {
+        padding: 20px 30px;
+    }
 	.left{
 		height: 200px;
 	}

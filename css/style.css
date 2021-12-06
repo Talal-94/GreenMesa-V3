@@ -90,7 +90,7 @@ p{
 }
 .btn-default:hover{
     color: #007f6e;
-    background-color: #faf9f6;
+    background-color: #f8f8f8;
 }
 /* section title */
 .section-title{
@@ -139,7 +139,7 @@ p{
     top: 0;
     height: 100%;
     width: 100%;
-    background-color: #e9e9e9;
+    background-color: #f8f8f8;
     box-shadow: 0 0 15px rgba(0,0,0,0.1);
     z-index: -1;
     transition: transform 0.5s ease;
@@ -218,7 +218,7 @@ p{
     top: 0;
     height: 100%;
     width: 280px;
-    background-color: #e9e9e9;
+    background-color: #f8f8f8;
     box-shadow: 0 0 15px rgba(0,0,0,0.1);
     overflow-y: auto;
     padding: 80px 0 40px;
@@ -253,7 +253,7 @@ p{
     top: 0;
     height: 100%;
     width: 100%;
-    background-color: #000000;
+    background-color:#000000;
     opacity: 0.4;
     z-index: -1;
 }
@@ -297,7 +297,7 @@ p{
 }
 /* about section */
 .about-section{
-    background-color: #e9e9e9;
+    background-color: #f8f8f8;
 }
 .about-text,
 .about-img{
@@ -320,7 +320,7 @@ p{
 }
 .about-text .btn:hover{
     color: #007f6e;
-    background-color: #faf9f6;
+    background-color: #f8f8f8;
 }
 .about-img img{
     width: 100%;
@@ -331,7 +331,7 @@ p{
 }
 /* Solutions section */
 .swiper-secton {
-    background-color: #e9e9e9;
+    background-color: #f8f8f8;
 }
 .swiper {
     height: 40rem;
@@ -443,7 +443,7 @@ p{
 }
 /* contact page */
 .contact-section{
-    background-color: #e9e9e9;
+    background-color: #f8f8f8;
     padding-bottom: 50px;
 }
 .contain{

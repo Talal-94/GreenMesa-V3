@@ -20,6 +20,8 @@ body{
     -webkit-tap-highlight-color: transparent;
     font-family: "Open sans", sans-serif;
     font-weight: 300;
+    letter-spacing: 1px;
+    background-color: #f8f8f8;
 }
 img{
     vertical-align: middle;
@@ -329,7 +331,41 @@ p{
 .about-img .img-box{
     position: relative;
 }
+
+
+
+
+/* BOX  Section */
+.box-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 3rem 0;
+}
+.box {
+    padding: 1rem;
+    border-radius: 5px;
+    text-align: center;
+    flex: 1 1 300px;
+    
+}
+.box img {
+    height: 80px;
+    margin: 10px 0;
+}
+.box p {
+    text-align: center;
+    padding: 1rem 0;
+    letter-spacing: 1.4px;
+    font-weight: 600;
+}
+
 /* Solutions section */
+.statement{
+    padding: 2rem;
+    margin: 3rem;
+}
+
 .swiper-secton {
     background-color: #f8f8f8;
 }
@@ -340,7 +376,6 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
 .first {
     background-image: url(../images/AdobeStock_358596652.jpeg);
@@ -350,7 +385,7 @@ p{
 }
 .swiper-slide p {
     font-size: 30px;
-    color: white;
+    color: black;
 }
 .first:hover, .second:hover, .third:hover {
     opacity: .9;
@@ -369,7 +404,7 @@ p{
 }
 
 .solutions-section{
-    background-color: #e9e9e9;
+    background-color: #f8f8f8;
 }
 .solutions-text,
 .solutions-img{
@@ -426,7 +461,7 @@ p{
 }
 .team-author span{
     display:block;
-    font-size:14px
+    font-size:14px;
 }
 .team-author img{
     max-width: 100px;
